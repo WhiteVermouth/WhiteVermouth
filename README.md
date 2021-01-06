@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zihan Ma, I Love Design & Code.
+I'm **Zihan Ma**.
 
 - 📚 Full Stack.
 - 📖 Learning iOS/macOS App Developemt.
